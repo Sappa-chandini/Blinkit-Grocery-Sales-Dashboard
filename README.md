@@ -160,12 +160,13 @@ This project demonstrates practical implementation of **Power BI**, **Power Quer
 
 ### Sales Analysis Dashboard
 
-<img width="1306" height="737" alt="BLINK D2" src="https://github.com/user-attachments/assets/e99e9aea-d02f-49b3-b15c-fbea111a3d9f" />
+<img width="1271" height="712" alt="BLINKIT D22" src="https://github.com/user-attachments/assets/1aef9b82-e6b9-4fd2-9ffb-942059164172" />
 
 
 ### Tooltip Dashboard
 
-<img width="1271" height="712" alt="BLINKIT D22" src="https://github.com/user-attachments/assets/1aef9b82-e6b9-4fd2-9ffb-942059164172" />
+<img width="1171" height="741" alt="BLINKIT D3" src="https://github.com/user-attachments/assets/e9e27254-b246-4fee-bd5c-dcf62281a80d" />
+
 
 
 ---
